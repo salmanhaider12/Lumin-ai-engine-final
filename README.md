@@ -15,8 +15,7 @@ An end-to-end AI pipeline for Lumin’s clip discovery:
 
 ## How to Run
 
-1. Open the notebook in Google Colab:  
-   https://colab.research.google.com/github/yourusername/lumin-ai-engine-final/blob/main/Lumin_AI_Recommendation_Engine_Integrated.ipynb  
+1. Open the notebook in Google Colab  
 2. Run all cells.  
 3. Upload your own clip frame to test the tagger.
 
